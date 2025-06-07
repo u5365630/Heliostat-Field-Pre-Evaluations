@@ -1,0 +1,25 @@
+name,value,error
+sun_azimuth,270,
+sun_elevation,78,
+num hst,522.0,
+num rays,2000000.0,
+potential flux,52202600.0,0.0
+absorbed flux,32847400.0,9059.7
+Cosine factor,0.842303,2.85972e-05
+shadow loss,201.838,67.4265
+Mising loss,8305690.0,8244.88
+materials loss,2817020.0,3458.19
+atomospheric loss,0.0,0.0
+,,
+Target,,
+area,48.0,
+front income flux,36497200.0,10066.3
+back income flux,0.0,0.0
+front absorbed flux,32847400.0,9059.7
+back absorbed flux,0.0,0.0
+front efficiency,0.62923,0.000173549
+back efficiency,0.0,0.0
+,,
+Virtual plane,,
+area,19200.0,
+income flux,4710810.0,9159.14
